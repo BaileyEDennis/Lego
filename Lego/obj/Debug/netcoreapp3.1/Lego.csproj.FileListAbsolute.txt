@@ -1,0 +1,13 @@
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.exe
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.deps.json
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.runtimeconfig.json
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.runtimeconfig.dev.json
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.dll
+C:\Users\baile\source\repos\Lego\Lego\bin\Debug\netcoreapp3.1\Lego.pdb
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.csprojAssemblyReference.cache
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.AssemblyInfoInputs.cache
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.AssemblyInfo.cs
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.dll
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.pdb
+C:\Users\baile\source\repos\Lego\Lego\obj\Debug\netcoreapp3.1\Lego.genruntimeconfig.cache
